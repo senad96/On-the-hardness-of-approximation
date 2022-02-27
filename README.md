@@ -7,4 +7,4 @@ In this project, I presented a lecture in which I explained the hardness of appr
 
 PCP thorem implies a lot of consequences in several fields of mathematics and discrete optimization.
 
-In presentation.pdf you can see the slide of the presentation.
+In [https://github.com/senad96/On-the-hardness-of-approximation/blob/main/presentation.pdf] presentation.pdf you can see the slide of the presentation.
